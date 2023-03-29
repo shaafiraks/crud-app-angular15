@@ -18,27 +18,27 @@
   },
   "employees": [
     {
-      "firstName": "Shafiraa",
-      "lastName": "Salsabila",
-      "email": "shafiraaks@gmail.com",
+      "firstName": "First",
+      "lastName": "Last",
+      "email": "newemail@email.com",
       "dob": "2023-03-07T17:00:00.000Z",
       "gender": "female",
       "education": "Diploma",
-      "company": "Google",
+      "company": "New Company",
       "experience": 4,
       "package": 12,
       "id": 1
     },
     {
-      "firstName": "Shafira",
-      "lastName": "Salsabila",
-      "email": "shafiraaks@gmail.com",
-      "dob": "2023-03-07T17:00:00.000Z",
-      "gender": "",
-      "education": "Matric",
-      "company": "Google",
-      "experience": 4,
-      "package": 12,
+      "firstName": "Test",
+      "lastName": "Yes",
+      "email": "lalala@gmail.com",
+      "dob": "2023-02-28T17:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Ogya",
+      "experience": 3,
+      "package": 11,
       "id": 2
     }
   ]
